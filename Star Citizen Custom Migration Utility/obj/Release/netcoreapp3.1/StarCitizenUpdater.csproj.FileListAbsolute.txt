@@ -1,0 +1,14 @@
+F:\Code\StarCitizenUpdater\bin\Release\netcoreapp3.1\StarCitizenUpdater.exe
+F:\Code\StarCitizenUpdater\bin\Release\netcoreapp3.1\StarCitizenUpdater.deps.json
+F:\Code\StarCitizenUpdater\bin\Release\netcoreapp3.1\StarCitizenUpdater.runtimeconfig.json
+F:\Code\StarCitizenUpdater\bin\Release\netcoreapp3.1\StarCitizenUpdater.runtimeconfig.dev.json
+F:\Code\StarCitizenUpdater\bin\Release\netcoreapp3.1\StarCitizenUpdater.dll
+F:\Code\StarCitizenUpdater\bin\Release\netcoreapp3.1\StarCitizenUpdater.pdb
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.csproj.CoreCompileInputs.cache
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.AssemblyInfoInputs.cache
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.AssemblyInfo.cs
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.dll
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.pdb
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.genruntimeconfig.cache
+C:\Program Files\Roberts Space Industries\netcoreapp3.1\netcoreapp3.1\StarCitizenUpdater.exe
+F:\Code\StarCitizenUpdater\obj\Release\netcoreapp3.1\StarCitizenUpdater.csprojAssemblyReference.cache
